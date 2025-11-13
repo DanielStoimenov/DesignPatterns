@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePattern", "Composi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegationPattern", "DelegationPattern\DelegationPattern.csproj", "{9ED76B94-F871-4AB5-8985-866624EAD6A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionObjectPattern", "ExtensionObjectPattern\ExtensionObjectPattern.csproj", "{1D9B1943-3E23-4D17-B5CD-80A4ABBA52EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9ED76B94-F871-4AB5-8985-866624EAD6A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ED76B94-F871-4AB5-8985-866624EAD6A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ED76B94-F871-4AB5-8985-866624EAD6A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D9B1943-3E23-4D17-B5CD-80A4ABBA52EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D9B1943-3E23-4D17-B5CD-80A4ABBA52EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D9B1943-3E23-4D17-B5CD-80A4ABBA52EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D9B1943-3E23-4D17-B5CD-80A4ABBA52EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
